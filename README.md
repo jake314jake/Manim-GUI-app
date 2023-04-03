@@ -3,6 +3,7 @@
 ![Manim](https://user-images.githubusercontent.com/90989827/229503704-c553a2d8-fa04-4894-b242-b6f00550e9fa.png)
 ### ABOUT:
 For this app:
+
 1/ each user have his own account ( database connection) .
 
 2/ each user can write a Manim python script ( in a text editor).
