@@ -13,3 +13,8 @@ For this app:
 4/ each user can share && receive  a Manim python script to another user .
 
 5/each user can execute && download the resault in different formats (server side operation).
+
+### GUI  template idea:
+
+
+![GUI](https://user-images.githubusercontent.com/90989827/229508297-97de7a06-636c-402f-9dcf-7ccabf4c1210.png)
