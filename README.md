@@ -17,4 +17,5 @@ For this app:
 ### GUI  template idea:
 
 
-![GUI](https://user-images.githubusercontent.com/90989827/229508297-97de7a06-636c-402f-9dcf-7ccabf4c1210.png)
+
+![GUI](https://user-images.githubusercontent.com/90989827/229508748-bb2f5e18-8d92-42fe-9bc7-f4aea9ba562b.png)
